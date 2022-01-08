@@ -1,0 +1,34 @@
+# Folders
+bin/
+ignore/
+logs/
+testing/
+
+# Trash
+.DS_Store
+Thumbs.db
+
+# Terraform
+.terraform
+.terraform.tfstate*
+terraform.tfstate*
+
+# Installed roles and collections
+.ansible/
+ansible/roles/ansible-role-vyos/
+ansible/roles/xanmanning.k3s
+
+# Flux update
+bin/flux
+
+# Direnv
+.direnv
+
+# Sops
+.decrypted~*
+
+# Other files
+kubeconfig
+
+# Docker-Compose
+integrations/docker-compose/*/.env
