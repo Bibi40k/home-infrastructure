@@ -1,13 +1,13 @@
 ---
 # Project information
-site_name: bjw-s | home-ops
-site_description: My home operations documentation
-site_author: Bᴇʀɴᴅ Sᴄʜᴏʀɢᴇʀs
-site_url: https://bjw-s.github.io/home-ops/
+site_name: Bibi40k | home-infrastructure
+site_description: My home infrastructure documentation
+site_author: Bɪʙɪ40ᴋ
+site_url: https://Bibi40k.github.io/home-infrastructure/
 
 # Repository
-repo_name: bjw-s/home-ops
-repo_url: https://github.com/bjw-s/home-ops
+repo_name: Bibi40k/home-infrastructure
+repo_url: https://github.com/Bibi40k/home-infrastructure
 edit_uri: ""
 
 # Configuration
@@ -65,7 +65,7 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/bjw-s
+      link: https://github.com/Bibi40k
 
 # Navigation structure
 nav:
