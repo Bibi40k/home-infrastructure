@@ -29,7 +29,7 @@ jobs:
 
       - name: Remove excluded file
         run: |
-          rm 404.html
+          rm -f -- 404.html
 
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.2.0
