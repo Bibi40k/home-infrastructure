@@ -51,7 +51,7 @@ jobs:
       - markdown-link-check
 
     steps:
-      - name: Get Bibi40k-bot token
+      - name: Get bibi40k-bot token
         id: get-app-token
         uses: getsentry/action-github-app-token@v1
         with:
@@ -68,8 +68,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.name "Bibi40k[bot]"
-          git config user.email "Bibi40k[bot]@users.noreply.github.com"
+          git config user.name "bibi40k[bot]"
+          git config user.email "bibi40k[bot]@users.noreply.github.com"
 
       - run: |
           pip install \

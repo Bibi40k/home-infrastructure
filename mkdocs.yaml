@@ -1,13 +1,13 @@
 ---
 # Project information
-site_name: Bibi40k | home-infrastructure
+site_name: bibi40k | home-infrastructure
 site_description: My home infrastructure documentation
 site_author: Bɪʙɪ40ᴋ
-site_url: https://Bibi40k.github.io/home-infrastructure/
+site_url: https://bibi40k.github.io/home-infrastructure/
 
 # Repository
-repo_name: Bibi40k/home-infrastructure
-repo_url: https://github.com/Bibi40k/home-infrastructure
+repo_name: bibi40k/home-infrastructure
+repo_url: https://github.com/bibi40k/home-infrastructure
 edit_uri: ""
 
 # Configuration
@@ -65,7 +65,7 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Bibi40k
+      link: https://github.com/bibi40k
 
 # Navigation structure
 nav:
